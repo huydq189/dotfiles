@@ -112,4 +112,3 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 source /home/linuxbrew/.linuxbrew/share/powerlevel10k/powerlevel10k.zsh-theme
-export NPM_TOKEN=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
